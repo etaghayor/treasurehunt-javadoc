@@ -1,0 +1,13 @@
+module:treasurehunt.main
+assets
+client
+client.test
+client.view
+client.view.multiscene.controller
+client.view.multiscene.model
+client.view.multiscene.util
+commun
+commun.element
+commun.test
+launcher
+server
